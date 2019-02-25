@@ -1,0 +1,12 @@
+{
+    "name": "jez/acf-beta",
+    "description": "access acf beta via composer",
+    "type": "wordpress-plugin",
+    "authors": [
+        {
+            "name": "Jez Cowley",
+            "email": "jezcowley@gmail.com"
+        }
+    ],
+    "require": {}
+}
